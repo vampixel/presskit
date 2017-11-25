@@ -144,6 +144,18 @@ a {
   padding-top: 150px;
   padding-bottom: 150px; }
 
+.vampixel-section {
+  background-color: rgb(131, 50, 67);
+}
+
+.vampixel-section ul {
+  text-align: left;
+}
+
+.vampixel-section p {
+  text-align: justify;
+}
+
 .download-section {
   color: white;
   background: url("../img/downloads-bg.jpg") no-repeat center center scroll;
